@@ -8,4 +8,4 @@
 npx docsify-cli serve .
 ```
 
-浏览器按终端提示打开（一般为 `http://localhost:3000`）。更新题库后请在本仓库根目录执行 `node generate_docsify_sidebar.mjs` 以刷新侧栏。
+浏览器按终端提示打开（一般为 `http://localhost:3000`）。

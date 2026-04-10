@@ -4,3 +4,16 @@
 cookie.local.txt
 .env
 .env.local
+
+# 本地工具脚本（不参与 Git）
+automate_export.mjs
+build_lanqiao_topic_index.mjs
+collect_problem_sources.mjs
+export_final.mjs
+fetch_problem_detail.mjs
+generate_docsify_sidebar.mjs
+lib_download_ps1.mjs
+lib_mirror_images.mjs
+materialize_learning.mjs
+mirror_md_images.mjs
+run_all.ps1
