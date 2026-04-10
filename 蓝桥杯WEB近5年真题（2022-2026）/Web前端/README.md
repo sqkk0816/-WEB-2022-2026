@@ -1,0 +1,11 @@
+# 蓝桥杯 Web 近五年真题 · 题目描述
+
+左侧目录按**考点**分组，点击题目即可阅读 `题目描述.md`。
+
+本地预览（在**本目录** `Web前端` 下执行）：
+
+```bash
+npx docsify-cli serve .
+```
+
+浏览器按终端提示打开（一般为 `http://localhost:3000`）。更新题库后请在本仓库根目录执行 `node generate_docsify_sidebar.mjs` 以刷新侧栏。

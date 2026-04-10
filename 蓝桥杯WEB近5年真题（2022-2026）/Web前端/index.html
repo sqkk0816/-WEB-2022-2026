@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>蓝桥杯 Web 真题 · 题目描述</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: "蓝桥杯 Web 真题",
+      repo: "",
+      loadSidebar: true,
+      auto2top: true,
+      // 正文里 ./images/ 等需相对「当前 md」解析，保持 true；侧栏链接已用 / 开头避免叠套路径
+      relativePath: true,
+      subMaxLevel: 0,
+      search: {
+        maxAge: 86400000,
+        paths: "auto",
+        placeholder: "搜索题目…",
+        noData: "无结果",
+        depth: 3,
+      },
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+</body>
+</html>
