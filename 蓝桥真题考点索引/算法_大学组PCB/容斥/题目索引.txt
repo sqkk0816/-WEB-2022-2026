@@ -1,0 +1,7 @@
+考点：容斥
+题目数：4
+
+[17132] 互质 | 年份: 2023 | https://www.lanqiao.cn/problems/17132/
+[21225] 公路 | 年份: 2025 | https://www.lanqiao.cn/problems/21225/
+[21236] 刻痕 | 年份: 2025 | https://www.lanqiao.cn/problems/21236/
+[21240] 三角形构造 | 年份: 2025 | https://www.lanqiao.cn/problems/21240/

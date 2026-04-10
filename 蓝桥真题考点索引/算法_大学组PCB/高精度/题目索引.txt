@@ -1,0 +1,5 @@
+考点：高精度
+题目数：2
+
+[2211] 六六大顺 | 年份: 2022 | https://www.lanqiao.cn/problems/2211/
+[19710] R 格式 | 年份: 2024 | https://www.lanqiao.cn/problems/19710/

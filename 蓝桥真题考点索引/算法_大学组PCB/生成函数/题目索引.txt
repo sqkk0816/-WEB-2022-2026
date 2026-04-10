@@ -1,0 +1,4 @@
+考点：生成函数
+题目数：1
+
+[3530] 高塔 | 年份: 2023 | https://www.lanqiao.cn/problems/3530/

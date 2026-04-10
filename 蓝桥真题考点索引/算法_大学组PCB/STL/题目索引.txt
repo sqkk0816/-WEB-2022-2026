@@ -1,0 +1,4 @@
+考点：STL
+题目数：1
+
+[19713] 拔河 | 年份: 2024 | https://www.lanqiao.cn/problems/19713/

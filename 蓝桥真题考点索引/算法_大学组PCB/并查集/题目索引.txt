@@ -1,0 +1,7 @@
+考点：并查集
+题目数：4
+
+[2094] 推导部分和 | 年份: 2022 | https://www.lanqiao.cn/problems/2094/
+[2127] 消除游戏 | 年份: 2022 | https://www.lanqiao.cn/problems/2127/
+[3538] 合并区域 | 年份: 2023 | https://www.lanqiao.cn/problems/3538/
+[21246] 隔离网络 | 年份: 2025 | https://www.lanqiao.cn/problems/21246/

@@ -1,0 +1,11 @@
+考点：JS 函数封装
+题目数：8
+
+[1770] 小兔子爬楼梯 | 年份: 2022 | https://www.lanqiao.cn/problems/1770/
+[5134] 图片水印生成 | 年份: 2023 | https://www.lanqiao.cn/problems/5134/
+[5135] 收集帛书碎片 | 年份: 2023 | https://www.lanqiao.cn/problems/5135/
+[5138] 年度明星项目 | 年份: 2023 | https://www.lanqiao.cn/problems/5138/
+[5141] ISBN 转换与生成 | 年份: 2023 | https://www.lanqiao.cn/problems/5141/
+[18466] 抢红包啦 | 年份: 2023 | https://www.lanqiao.cn/problems/18466/
+[18467] 版本比较器 | 年份: 2023 | https://www.lanqiao.cn/problems/18467/
+[18471] 文本查重小能手 | 年份: 2023 | https://www.lanqiao.cn/problems/18471/

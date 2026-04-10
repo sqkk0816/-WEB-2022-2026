@@ -1,0 +1,7 @@
+考点：计数问题
+题目数：4
+
+[21236] 刻痕 | 年份: 2025 | https://www.lanqiao.cn/problems/21236/
+[21240] 三角形构造 | 年份: 2025 | https://www.lanqiao.cn/problems/21240/
+[21245] 智能交通信号灯 | 年份: 2025 | https://www.lanqiao.cn/problems/21245/
+[21256] 近似回文字符串 | 年份: 2025 | https://www.lanqiao.cn/problems/21256/

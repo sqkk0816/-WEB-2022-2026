@@ -1,0 +1,5 @@
+考点：链表
+题目数：2
+
+[2219] 左移右移 | 年份: 2022 | https://www.lanqiao.cn/problems/2219/
+[3515] 整数删除 | 年份: 2023 | https://www.lanqiao.cn/problems/3515/

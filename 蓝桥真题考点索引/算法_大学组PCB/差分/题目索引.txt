@@ -1,0 +1,7 @@
+考点：差分
+题目数：4
+
+[2128] 重新排序 | 年份: 2022 | https://www.lanqiao.cn/problems/2128/
+[3533] 棋盘 | 年份: 2023 | https://www.lanqiao.cn/problems/3533/
+[19716] 商品库存管理 | 年份: 2024 | https://www.lanqiao.cn/problems/19716/
+[19736] 缴纳过路费 | 年份: 2024 | https://www.lanqiao.cn/problems/19736/

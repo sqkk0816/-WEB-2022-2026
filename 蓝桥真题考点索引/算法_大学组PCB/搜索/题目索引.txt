@@ -1,0 +1,11 @@
+考点：搜索
+题目数：8
+
+[2094] 推导部分和 | 年份: 2022 | https://www.lanqiao.cn/problems/2094/
+[2113] 扫雷 | 年份: 2022 | https://www.lanqiao.cn/problems/2113/
+[2153] 拉箱子 | 年份: 2022 | https://www.lanqiao.cn/problems/2153/
+[2227] 点亮 | 年份: 2022 | https://www.lanqiao.cn/problems/2227/
+[17100] 01游戏 | 年份: 2023 | https://www.lanqiao.cn/problems/17100/
+[17140] 数和游戏 | 年份: 2023 | https://www.lanqiao.cn/problems/17140/
+[17150] 困局 | 年份: 2023 | https://www.lanqiao.cn/problems/17150/
+[19727] LITS 游戏 | 年份: 2024 | https://www.lanqiao.cn/problems/19727/

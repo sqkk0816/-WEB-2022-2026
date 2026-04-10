@@ -1,6 +1,7 @@
 /* TODO:banner 上的文字 需要居中显示 */
 .home-wrapper .banner .banner-conent .hero {
   margin-top: 3rem;
+  text-align: center;
 }
 
 /* TODO: main-wrapper 通过设置main-wrapper 布局方式 让.main-left  .main-right 正确显示 */
@@ -10,14 +11,21 @@
   padding: 0 0.9rem;
   box-sizing: border-box;
   position: relative;
+  display: flex;
+  justify-content: space-between;
 }
 
 /*/* TODO 宽度自适应 居左显示 */
-.main-wrapper .main-left {}
+.main-wrapper .main-left {
+  width: auto;
+  flex: 1;
+}
 
 /* 宽 245px 居右显示 */
 .main-wrapper .main-right>* {
   box-sizing: border-box;
+  width: 245px;
+  flex: 0 0 auto;
 }
 
 /* 以下代码不需要修改 */

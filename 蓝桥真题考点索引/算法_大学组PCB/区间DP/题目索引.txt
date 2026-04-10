@@ -1,0 +1,4 @@
+考点：区间DP
+题目数：1
+
+[3503] 更小的数 | 年份: 2023 | https://www.lanqiao.cn/problems/3503/

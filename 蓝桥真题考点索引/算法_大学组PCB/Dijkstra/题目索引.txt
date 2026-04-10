@@ -1,0 +1,6 @@
+考点：Dijkstra
+题目数：3
+
+[3542] 魔法阵 | 年份: 2023 | https://www.lanqiao.cn/problems/3542/
+[19726] 星际旅行 | 年份: 2024 | https://www.lanqiao.cn/problems/19726/
+[21208] 耗时最短的路径 | 年份: 2025 | https://www.lanqiao.cn/problems/21208/

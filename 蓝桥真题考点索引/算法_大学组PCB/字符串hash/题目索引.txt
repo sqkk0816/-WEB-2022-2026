@@ -1,0 +1,7 @@
+考点：字符串hash
+题目数：4
+
+[17141] 最长同类子串 | 年份: 2023 | https://www.lanqiao.cn/problems/17141/
+[17148] 最长回文前后缀 | 年份: 2023 | https://www.lanqiao.cn/problems/17148/
+[19718] 回文字符串 | 年份: 2024 | https://www.lanqiao.cn/problems/19718/
+[19719] 吊坠 | 年份: 2024 | https://www.lanqiao.cn/problems/19719/

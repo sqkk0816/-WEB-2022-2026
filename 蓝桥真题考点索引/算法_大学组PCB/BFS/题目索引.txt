@@ -1,0 +1,11 @@
+考点：BFS
+题目数：8
+
+[549] 扫雷 | 年份: 2022 | https://www.lanqiao.cn/problems/549/
+[2222] 迷宫 | 年份: 2022 | https://www.lanqiao.cn/problems/2222/
+[2386] 染色时间 | 年份: 2022 | https://www.lanqiao.cn/problems/2386/
+[3513] 岛屿个数 | 年份: 2023 | https://www.lanqiao.cn/problems/3513/
+[3516] 景区导游 | 年份: 2023 | https://www.lanqiao.cn/problems/3516/
+[3538] 合并区域 | 年份: 2023 | https://www.lanqiao.cn/problems/3538/
+[17109] AB路线 | 年份: 2023 | https://www.lanqiao.cn/problems/17109/
+[21235] 连通块 | 年份: 2025 | https://www.lanqiao.cn/problems/21235/

@@ -1,0 +1,32 @@
+考点：贪心
+题目数：29
+
+[549] 扫雷 | 年份: 2022 | https://www.lanqiao.cn/problems/549/
+[2097] 青蛙过河 | 年份: 2022 | https://www.lanqiao.cn/problems/2097/
+[2108] X 进制减法 | 年份: 2022 | https://www.lanqiao.cn/problems/2108/
+[2117] 砍竹子 | 年份: 2022 | https://www.lanqiao.cn/problems/2117/
+[2201] 搬砖 | 年份: 2022 | https://www.lanqiao.cn/problems/2201/
+[2213] 打折 | 年份: 2022 | https://www.lanqiao.cn/problems/2213/
+[2216] 图书借阅 | 年份: 2022 | https://www.lanqiao.cn/problems/2216/
+[3518] 三国游戏 | 年份: 2023 | https://www.lanqiao.cn/problems/3518/
+[3519] 填充 | 年份: 2023 | https://www.lanqiao.cn/problems/3519/
+[3532] 平均 | 年份: 2023 | https://www.lanqiao.cn/problems/3532/
+[3534] 小蓝的旅行计划 | 年份: 2023 | https://www.lanqiao.cn/problems/3534/
+[3539] 买二赠一 | 年份: 2023 | https://www.lanqiao.cn/problems/3539/
+[3541] 最大开支 | 年份: 2023 | https://www.lanqiao.cn/problems/3541/
+[3544] 管道 | 年份: 2023 | https://www.lanqiao.cn/problems/3544/
+[17111] 拼数字 | 年份: 2023 | https://www.lanqiao.cn/problems/17111/
+[17120] 选段排序 | 年份: 2023 | https://www.lanqiao.cn/problems/17120/
+[17124] 彩色二叉树 | 年份: 2023 | https://www.lanqiao.cn/problems/17124/
+[17130] 最大算式 | 年份: 2023 | https://www.lanqiao.cn/problems/17130/
+[17149] 贸易航线 | 年份: 2023 | https://www.lanqiao.cn/problems/17149/
+[19703] 训练士兵 | 年份: 2024 | https://www.lanqiao.cn/problems/19703/
+[19708] 封印宝石 | 年份: 2024 | https://www.lanqiao.cn/problems/19708/
+[19715] 回文数组 | 年份: 2024 | https://www.lanqiao.cn/problems/19715/
+[19724] 食堂 | 年份: 2024 | https://www.lanqiao.cn/problems/19724/
+[21211] 数字配对 | 年份: 2025 | https://www.lanqiao.cn/problems/21211/
+[21221] 宗门大比 | 年份: 2025 | https://www.lanqiao.cn/problems/21221/
+[21229] 连锁反应 | 年份: 2025 | https://www.lanqiao.cn/problems/21229/
+[21237] 魔法护盾 | 年份: 2025 | https://www.lanqiao.cn/problems/21237/
+[21251] 答题数量 | 年份: 2025 | https://www.lanqiao.cn/problems/21251/
+[21257] 翻倍 | 年份: 2025 | https://www.lanqiao.cn/problems/21257/

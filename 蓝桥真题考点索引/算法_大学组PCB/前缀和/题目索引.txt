@@ -1,0 +1,16 @@
+考点：前缀和
+题目数：13
+
+[2080] 求和 | 年份: 2022 | https://www.lanqiao.cn/problems/2080/
+[2109] 统计子矩阵 | 年份: 2022 | https://www.lanqiao.cn/problems/2109/
+[2143] 最少刷题数 | 年份: 2022 | https://www.lanqiao.cn/problems/2143/
+[3514] 子串简写 | 年份: 2023 | https://www.lanqiao.cn/problems/3514/
+[3533] 棋盘 | 年份: 2023 | https://www.lanqiao.cn/problems/3533/
+[17110] 抓娃娃 | 年份: 2023 | https://www.lanqiao.cn/problems/17110/
+[17142] 弹珠堆放 | 年份: 2023 | https://www.lanqiao.cn/problems/17142/
+[19703] 训练士兵 | 年份: 2024 | https://www.lanqiao.cn/problems/19703/
+[19705] 成绩统计 | 年份: 2024 | https://www.lanqiao.cn/problems/19705/
+[19716] 商品库存管理 | 年份: 2024 | https://www.lanqiao.cn/problems/19716/
+[19717] 挖矿 | 年份: 2024 | https://www.lanqiao.cn/problems/19717/
+[19718] 回文字符串 | 年份: 2024 | https://www.lanqiao.cn/problems/19718/
+[19720] 智力测试 | 年份: 2024 | https://www.lanqiao.cn/problems/19720/

@@ -1,0 +1,5 @@
+考点：全排列
+题目数：2
+
+[21238] 免费披萨 | 年份: 2025 | https://www.lanqiao.cn/problems/21238/
+[21266] 小蓝的生日礼物 | 年份: 2025 | https://www.lanqiao.cn/problems/21266/

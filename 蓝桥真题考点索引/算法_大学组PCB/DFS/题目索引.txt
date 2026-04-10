@@ -1,0 +1,20 @@
+考点：DFS
+题目数：17
+
+[2193] 最大数字 | 年份: 2022 | https://www.lanqiao.cn/problems/2193/
+[2410] 最大连通 | 年份: 2023 | https://www.lanqiao.cn/problems/2410/
+[3505] 买瓜 | 年份: 2023 | https://www.lanqiao.cn/problems/3505/
+[3508] 像素放置 | 年份: 2023 | https://www.lanqiao.cn/problems/3508/
+[3511] 飞机降落 | 年份: 2023 | https://www.lanqiao.cn/problems/3511/
+[3516] 景区导游 | 年份: 2023 | https://www.lanqiao.cn/problems/3516/
+[3552] 与或异或 | 年份: 2023 | https://www.lanqiao.cn/problems/3552/
+[4124] 分糖果 | 年份: 2023 | https://www.lanqiao.cn/problems/4124/
+[17135] 不完整的算式 | 年份: 2023 | https://www.lanqiao.cn/problems/17135/
+[19694] 五子棋对弈 | 年份: 2024 | https://www.lanqiao.cn/problems/19694/
+[19704] 团建 | 年份: 2024 | https://www.lanqiao.cn/problems/19704/
+[19712] 数字接龙 | 年份: 2024 | https://www.lanqiao.cn/problems/19712/
+[19727] LITS 游戏 | 年份: 2024 | https://www.lanqiao.cn/problems/19727/
+[19734] 植物生命力 | 年份: 2024 | https://www.lanqiao.cn/problems/19734/
+[21213] 巡逻 | 年份: 2025 | https://www.lanqiao.cn/problems/21213/
+[21225] 公路 | 年份: 2025 | https://www.lanqiao.cn/problems/21225/
+[21239] 机器人充电站规划 | 年份: 2025 | https://www.lanqiao.cn/problems/21239/

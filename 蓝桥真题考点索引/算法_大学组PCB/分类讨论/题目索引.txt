@@ -1,0 +1,10 @@
+考点：分类讨论
+题目数：7
+
+[2154] 矩形拼接 | 年份: 2022 | https://www.lanqiao.cn/problems/2154/
+[17119] 质数排序 | 年份: 2023 | https://www.lanqiao.cn/problems/17119/
+[17131] 等腰三角形 | 年份: 2023 | https://www.lanqiao.cn/problems/17131/
+[21221] 宗门大比 | 年份: 2025 | https://www.lanqiao.cn/problems/21221/
+[21242] 修改密码 | 年份: 2025 | https://www.lanqiao.cn/problems/21242/
+[21261] 数字轮盘 | 年份: 2025 | https://www.lanqiao.cn/problems/21261/
+[21268] 打破规则 | 年份: 2025 | https://www.lanqiao.cn/problems/21268/

@@ -1,0 +1,6 @@
+考点：字典树
+题目数：3
+
+[3524] 异或和之差 | 年份: 2023 | https://www.lanqiao.cn/problems/3524/
+[17126] 单词分类 | 年份: 2023 | https://www.lanqiao.cn/problems/17126/
+[19721] 最大异或结点 | 年份: 2024 | https://www.lanqiao.cn/problems/19721/

@@ -1,0 +1,6 @@
+考点：LCA
+题目数：3
+
+[3506] 网络稳定性 | 年份: 2023 | https://www.lanqiao.cn/problems/3506/
+[3517] 砍树 | 年份: 2023 | https://www.lanqiao.cn/problems/3517/
+[19707] 零食采购 | 年份: 2024 | https://www.lanqiao.cn/problems/19707/

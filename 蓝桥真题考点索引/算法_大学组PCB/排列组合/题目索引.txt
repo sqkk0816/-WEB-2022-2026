@@ -1,0 +1,15 @@
+考点：排列组合
+题目数：12
+
+[17094] 圆上的连线 | 年份: 2023 | https://www.lanqiao.cn/problems/17094/
+[17116] 2023 | 年份: 2023 | https://www.lanqiao.cn/problems/17116/
+[17119] 质数排序 | 年份: 2023 | https://www.lanqiao.cn/problems/17119/
+[17125] 连续数组 | 年份: 2023 | https://www.lanqiao.cn/problems/17125/
+[17150] 困局 | 年份: 2023 | https://www.lanqiao.cn/problems/17150/
+[19720] 智力测试 | 年份: 2024 | https://www.lanqiao.cn/problems/19720/
+[21233] OCR 校正 | 年份: 2025 | https://www.lanqiao.cn/problems/21233/
+[21234] 黑球与白球 | 年份: 2025 | https://www.lanqiao.cn/problems/21234/
+[21236] 刻痕 | 年份: 2025 | https://www.lanqiao.cn/problems/21236/
+[21240] 三角形构造 | 年份: 2025 | https://www.lanqiao.cn/problems/21240/
+[21252] 分配房子 | 年份: 2025 | https://www.lanqiao.cn/problems/21252/
+[21254] 涂格子 | 年份: 2025 | https://www.lanqiao.cn/problems/21254/

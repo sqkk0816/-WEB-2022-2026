@@ -1,0 +1,6 @@
+考点：构造
+题目数：3
+
+[3550] 混乱的数组 | 年份: 2023 | https://www.lanqiao.cn/problems/3550/
+[19699] 类斐波那契循环数 | 年份: 2024 | https://www.lanqiao.cn/problems/19699/
+[21258] 蓝桥星数字 | 年份: 2025 | https://www.lanqiao.cn/problems/21258/

@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+}
+
+header {
+  color: white;
+  background-color: #bbb;
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.container {
+  margin: auto;
+  margin-top: 5rem;
+  width: 600px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.input,
+.output {
+  background-color: white;
+  padding: 1rem;
+  border: 1px solid #bbb;
+  position: relative;
+}
+
+.input h3 {
+  margin-bottom: 1rem;
+}
+
+textarea {
+  resize: none;
+  padding: 0.5rem;
+  width: 250px;
+  height: 150px;
+  font-size: 1.1rem;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.input .prompt {
+  position: absolute;
+  bottom: 1.6rem;
+  left: 1.25rem;
+  color: rgba(208, 2, 27, 0.9);
+  font-size: 0.9rem;
+}
+.prompt img {
+  width: 30px;
+  height: 30px;
+}
+.output img {
+  position: absolute;
+  width: 250px;
+  height: 150px;
+  background-color: white;
+  transform: translateX(-50%);
+  left: 50%;
+}
+
+#error {
+  z-index: 2;
+}
+
+.output p {
+  width: 100%;
+  text-align: center;
+}
+
+.output h3 {
+  margin-bottom: 0.5rem;
+}

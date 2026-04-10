@@ -1,0 +1,5 @@
+考点：Kruskal
+题目数：2
+
+[3506] 网络稳定性 | 年份: 2023 | https://www.lanqiao.cn/problems/3506/
+[19719] 吊坠 | 年份: 2024 | https://www.lanqiao.cn/problems/19719/

@@ -1,0 +1,40 @@
+考点：模拟
+题目数：37
+
+[2096] 顺子日期 | 年份: 2022 | https://www.lanqiao.cn/problems/2096/
+[2098] 刷题统计 | 年份: 2022 | https://www.lanqiao.cn/problems/2098/
+[2118] 排列字母 | 年份: 2022 | https://www.lanqiao.cn/problems/2118/
+[2120] 纸张尺寸 | 年份: 2022 | https://www.lanqiao.cn/problems/2120/
+[2122] 数位排序 | 年份: 2022 | https://www.lanqiao.cn/problems/2122/
+[2127] 消除游戏 | 年份: 2022 | https://www.lanqiao.cn/problems/2127/
+[2141] 山 | 年份: 2022 | https://www.lanqiao.cn/problems/2141/
+[2170] 内存空间 | 年份: 2022 | https://www.lanqiao.cn/problems/2170/
+[2176] owo | 年份: 2022 | https://www.lanqiao.cn/problems/2176/
+[2188] 钟表 | 年份: 2022 | https://www.lanqiao.cn/problems/2188/
+[2220] 窗口 | 年份: 2022 | https://www.lanqiao.cn/problems/2220/
+[2293] 0 的个数 | 年份: 2022 | https://www.lanqiao.cn/problems/2293/
+[2297] 天数 | 年份: 2022 | https://www.lanqiao.cn/problems/2297/
+[2304] X 图形 | 年份: 2022 | https://www.lanqiao.cn/problems/2304/
+[2306] 移动 | 年份: 2022 | https://www.lanqiao.cn/problems/2306/
+[2380] 考勤刷卡 | 年份: 2022 | https://www.lanqiao.cn/problems/2380/
+[3491] 幸运数 | 年份: 2023 | https://www.lanqiao.cn/problems/3491/
+[3493] 求和 | 年份: 2023 | https://www.lanqiao.cn/problems/3493/
+[3494] 工作时长 | 年份: 2023 | https://www.lanqiao.cn/problems/3494/
+[3496] 2023 | 年份: 2023 | https://www.lanqiao.cn/problems/3496/
+[3499] 幸运数字 | 年份: 2023 | https://www.lanqiao.cn/problems/3499/
+[3515] 整数删除 | 年份: 2023 | https://www.lanqiao.cn/problems/3515/
+[3520] 翻转 | 年份: 2023 | https://www.lanqiao.cn/problems/3520/
+[3536] 矩形总面积 | 年份: 2023 | https://www.lanqiao.cn/problems/3536/
+[3538] 合并区域 | 年份: 2023 | https://www.lanqiao.cn/problems/3538/
+[3547] T字消除 | 年份: 2023 | https://www.lanqiao.cn/problems/3547/
+[17106] 合并数列 | 年份: 2023 | https://www.lanqiao.cn/problems/17106/
+[17114] 残缺的数字 | 年份: 2023 | https://www.lanqiao.cn/problems/17114/
+[17122] 钉板上的正方形 | 年份: 2023 | https://www.lanqiao.cn/problems/17122/
+[17145] 交易账本 | 年份: 2023 | https://www.lanqiao.cn/problems/17145/
+[19694] 五子棋对弈 | 年份: 2024 | https://www.lanqiao.cn/problems/19694/
+[19697] 劲舞团 | 年份: 2024 | https://www.lanqiao.cn/problems/19697/
+[19710] R 格式 | 年份: 2024 | https://www.lanqiao.cn/problems/19710/
+[19712] 数字接龙 | 年份: 2024 | https://www.lanqiao.cn/problems/19712/
+[19723] 分布式队列 | 年份: 2024 | https://www.lanqiao.cn/problems/19723/
+[19727] LITS 游戏 | 年份: 2024 | https://www.lanqiao.cn/problems/19727/
+[19730] 神奇闹钟 | 年份: 2024 | https://www.lanqiao.cn/problems/19730/

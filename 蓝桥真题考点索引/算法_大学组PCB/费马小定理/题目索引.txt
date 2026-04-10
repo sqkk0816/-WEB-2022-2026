@@ -1,0 +1,5 @@
+考点：费马小定理
+题目数：2
+
+[17133] 逆元 | 年份: 2023 | https://www.lanqiao.cn/problems/17133/
+[21227] 斐波那契数列 | 年份: 2025 | https://www.lanqiao.cn/problems/21227/

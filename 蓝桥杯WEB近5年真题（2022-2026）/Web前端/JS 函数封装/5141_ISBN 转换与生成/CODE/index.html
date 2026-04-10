@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>ISBN 转换与生成</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <h1>ISBN转换工具</h1>
+    </header>
+    <div class="container">
+      <div class="input">
+        <h3>ISBN 10</h3>
+        <textarea placeholder="请输入ISBN-10号码" v-model="isbn" @input="outputImage"></textarea>
+        <div class="prompt" v-if="isbn">
+          <img src="images/check-one.png" v-if="validISBN">
+          <img src="images/close-one.png" v-else>
+        </div>
+      </div>
+      <div class="output">
+        <h3>转换结果</h3>
+        <p v-if="validISBN">{{ convertedISBN }}</p>
+        <p v-else>请输入有效的ISBN-10号码</p>
+        <div>
+          <img src="images/fail-picture.png" id="error" v-if="!validISBN">
+          <img id="barcode"></img>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+<script src="js/vue.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/JsBarcode.ean-upc.min.js"></script>
+<script src="js/index.js"></script>
+<script>
+  var vm = new Vue({
+    el: "#app",
+    data: {
+      isbn: '',
+    },
+    computed: {
+      // 将ISBN10转化为ISBN13
+      convertedISBN() {
+        if (this.validISBN) {
+          return ISBN10To13(this.isbnNums)
+        } else {
+          return ''
+        }
+      },
+      // 判断当前ISBN是否是有效的ISBN10
+      validISBN() {
+        return validISBN10(this.isbnNums)
+      },
+      // 过滤掉用户输入中的分隔符
+      isbnNums() {
+        return getNumbers(this.isbn)
+      }
+    },
+    methods: {
+      outputImage() {
+        if (this.convertedISBN) {
+          JsBarcode("#barcode", this.convertedISBN)
+        }
+      }
+    },
+  });
+</script>
+
+</html>

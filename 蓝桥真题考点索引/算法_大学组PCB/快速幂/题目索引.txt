@@ -1,0 +1,5 @@
+考点：快速幂
+题目数：2
+
+[17133] 逆元 | 年份: 2023 | https://www.lanqiao.cn/problems/17133/
+[21265] 切换信号灯 | 年份: 2025 | https://www.lanqiao.cn/problems/21265/

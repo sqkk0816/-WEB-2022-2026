@@ -1,0 +1,6 @@
+考点：连通块
+题目数：3
+
+[19736] 缴纳过路费 | 年份: 2024 | https://www.lanqiao.cn/problems/19736/
+[21235] 连通块 | 年份: 2025 | https://www.lanqiao.cn/problems/21235/
+[21246] 隔离网络 | 年份: 2025 | https://www.lanqiao.cn/problems/21246/
