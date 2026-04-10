@@ -1,5 +1,0 @@
-考点：数位DP
-题目数：2
-
-[2226] 好数之和 | 年份: 2022 | https://www.lanqiao.cn/problems/2226/
-[21209] 整齐的数 | 年份: 2025 | https://www.lanqiao.cn/problems/21209/

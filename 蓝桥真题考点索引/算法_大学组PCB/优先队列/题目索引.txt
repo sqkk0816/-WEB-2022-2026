@@ -1,6 +1,0 @@
-考点：优先队列
-题目数：3
-
-[3515] 整数删除 | 年份: 2023 | https://www.lanqiao.cn/problems/3515/
-[3534] 小蓝的旅行计划 | 年份: 2023 | https://www.lanqiao.cn/problems/3534/
-[3541] 最大开支 | 年份: 2023 | https://www.lanqiao.cn/problems/3541/

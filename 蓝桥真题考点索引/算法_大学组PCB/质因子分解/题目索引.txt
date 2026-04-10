@@ -1,5 +1,0 @@
-考点：质因子分解
-题目数：2
-
-[17105] 双子数 | 年份: 2023 | https://www.lanqiao.cn/problems/17105/
-[17123] 躲炮弹 | 年份: 2023 | https://www.lanqiao.cn/problems/17123/

@@ -1,6 +1,0 @@
-考点：异步
-题目数：3
-
-[5137] 全球新冠疫情数据统计 | 年份: 2023 | https://www.lanqiao.cn/problems/5137/
-[5138] 年度明星项目 | 年份: 2023 | https://www.lanqiao.cn/problems/5138/
-[5143] 组课神器 | 年份: 2023 | https://www.lanqiao.cn/problems/5143/

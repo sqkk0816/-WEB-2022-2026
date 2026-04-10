@@ -1,5 +1,10 @@
 # 本地拉取的题目详情（含题干，勿上传）
 题目详情缓存/
+# 考点索引（运行 build_lanqiao_topic_index.mjs 生成本地副本）
+蓝桥真题考点索引/
+# 省赛批量导出 / 学习页解析（仅本地）
+export_sheng_sai_missing.mjs
+lib_learning_fetch.mjs
 # 若把 Cookie 放在文件里调试
 cookie.local.txt
 .env

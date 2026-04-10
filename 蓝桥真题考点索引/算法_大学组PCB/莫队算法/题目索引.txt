@@ -1,5 +1,0 @@
-考点：莫队算法
-题目数：2
-
-[2130] 重复的数 | 年份: 2022 | https://www.lanqiao.cn/problems/2130/
-[3504] 颜色平衡树 | 年份: 2023 | https://www.lanqiao.cn/problems/3504/

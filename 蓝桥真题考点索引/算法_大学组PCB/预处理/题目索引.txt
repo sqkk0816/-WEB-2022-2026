@@ -1,5 +1,0 @@
-考点：预处理
-题目数：2
-
-[21255] 子串去重 | 年份: 2025 | https://www.lanqiao.cn/problems/21255/
-[21258] 蓝桥星数字 | 年份: 2025 | https://www.lanqiao.cn/problems/21258/

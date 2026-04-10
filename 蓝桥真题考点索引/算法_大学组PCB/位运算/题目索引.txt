@@ -1,5 +1,0 @@
-考点：位运算
-题目数：2
-
-[3507] 异或和之和 | 年份: 2023 | https://www.lanqiao.cn/problems/3507/
-[3552] 与或异或 | 年份: 2023 | https://www.lanqiao.cn/problems/3552/

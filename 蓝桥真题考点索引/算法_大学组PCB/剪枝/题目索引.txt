@@ -1,6 +1,0 @@
-考点：剪枝
-题目数：3
-
-[17100] 01游戏 | 年份: 2023 | https://www.lanqiao.cn/problems/17100/
-[17140] 数和游戏 | 年份: 2023 | https://www.lanqiao.cn/problems/17140/
-[19727] LITS 游戏 | 年份: 2024 | https://www.lanqiao.cn/problems/19727/

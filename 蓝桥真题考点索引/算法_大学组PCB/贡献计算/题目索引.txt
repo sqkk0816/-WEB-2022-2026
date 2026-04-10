@@ -1,5 +1,0 @@
-考点：贡献计算
-题目数：2
-
-[17104] 子2023 | 年份: 2023 | https://www.lanqiao.cn/problems/17104/
-[19715] 回文数组 | 年份: 2024 | https://www.lanqiao.cn/problems/19715/

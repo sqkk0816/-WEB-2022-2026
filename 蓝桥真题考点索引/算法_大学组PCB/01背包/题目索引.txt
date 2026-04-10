@@ -1,5 +1,0 @@
-考点：01背包
-题目数：2
-
-[2195] 费用报销 | 年份: 2022 | https://www.lanqiao.cn/problems/2195/
-[2201] 搬砖 | 年份: 2022 | https://www.lanqiao.cn/problems/2201/

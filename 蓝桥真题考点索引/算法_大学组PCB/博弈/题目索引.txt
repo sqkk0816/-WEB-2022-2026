@@ -1,5 +1,0 @@
-考点：博弈
-题目数：2
-
-[2061] 灭鼠先锋 | 年份: 2022 | https://www.lanqiao.cn/problems/2061/
-[2241] 分石头 | 年份: 2022 | https://www.lanqiao.cn/problems/2241/

@@ -1,8 +1,0 @@
-考点：计算几何
-题目数：5
-
-[2089] 扫描游戏 | 年份: 2022 | https://www.lanqiao.cn/problems/2089/
-[2134] 蜂巢 | 年份: 2022 | https://www.lanqiao.cn/problems/2134/
-[2225] 围栏 | 年份: 2022 | https://www.lanqiao.cn/problems/2225/
-[3529] 太阳 | 年份: 2023 | https://www.lanqiao.cn/problems/3529/
-[3536] 矩形总面积 | 年份: 2023 | https://www.lanqiao.cn/problems/3536/

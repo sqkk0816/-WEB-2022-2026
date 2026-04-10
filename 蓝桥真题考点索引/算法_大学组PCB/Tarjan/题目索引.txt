@@ -1,4 +1,0 @@
-考点：Tarjan
-题目数：1
-
-[17108] 删边问题 | 年份: 2023 | https://www.lanqiao.cn/problems/17108/

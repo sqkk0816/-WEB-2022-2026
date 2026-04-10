@@ -1,5 +1,0 @@
-考点：最小生成树
-题目数：2
-
-[17138] 电动车 | 年份: 2023 | https://www.lanqiao.cn/problems/17138/
-[19719] 吊坠 | 年份: 2024 | https://www.lanqiao.cn/problems/19719/

@@ -1,8 +1,0 @@
-考点：规律
-题目数：5
-
-[2060] 裁纸刀 | 年份: 2022 | https://www.lanqiao.cn/problems/2060/
-[2204] 斐波那契与7 | 年份: 2022 | https://www.lanqiao.cn/problems/2204/
-[3526] 子树的大小 | 年份: 2023 | https://www.lanqiao.cn/problems/3526/
-[19714] 数字诗意 | 年份: 2024 | https://www.lanqiao.cn/problems/19714/
-[19735] 蓝桥村的真相 | 年份: 2024 | https://www.lanqiao.cn/problems/19735/

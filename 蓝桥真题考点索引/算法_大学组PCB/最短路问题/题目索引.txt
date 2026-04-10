@@ -1,8 +1,0 @@
-考点：最短路问题
-题目数：5
-
-[2178] 环境治理 | 年份: 2022 | https://www.lanqiao.cn/problems/2178/
-[2194] 出差 | 年份: 2022 | https://www.lanqiao.cn/problems/2194/
-[2386] 染色时间 | 年份: 2022 | https://www.lanqiao.cn/problems/2386/
-[19726] 星际旅行 | 年份: 2024 | https://www.lanqiao.cn/problems/19726/
-[21208] 耗时最短的路径 | 年份: 2025 | https://www.lanqiao.cn/problems/21208/

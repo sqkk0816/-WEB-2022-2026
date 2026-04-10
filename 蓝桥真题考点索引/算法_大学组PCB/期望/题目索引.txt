@@ -1,6 +1,0 @@
-考点：期望
-题目数：3
-
-[2085] 爬树的甲壳虫 | 年份: 2022 | https://www.lanqiao.cn/problems/2085/
-[19725] 最优分组 | 年份: 2024 | https://www.lanqiao.cn/problems/19725/
-[19726] 星际旅行 | 年份: 2024 | https://www.lanqiao.cn/problems/19726/

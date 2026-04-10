@@ -1,5 +1,0 @@
-考点：概率
-题目数：2
-
-[2197] 故障 | 年份: 2022 | https://www.lanqiao.cn/problems/2197/
-[19725] 最优分组 | 年份: 2024 | https://www.lanqiao.cn/problems/19725/

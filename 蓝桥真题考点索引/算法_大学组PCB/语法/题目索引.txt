@@ -1,5 +1,0 @@
-考点：语法
-题目数：2
-
-[2266] 元音大写 | 年份: 2022 | https://www.lanqiao.cn/problems/2266/
-[17144] 偶串 | 年份: 2023 | https://www.lanqiao.cn/problems/17144/

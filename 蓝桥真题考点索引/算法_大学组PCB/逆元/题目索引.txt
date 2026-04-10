@@ -1,5 +1,0 @@
-考点：逆元
-题目数：2
-
-[2139] 因数平方和 | 年份: 2022 | https://www.lanqiao.cn/problems/2139/
-[17133] 逆元 | 年份: 2023 | https://www.lanqiao.cn/problems/17133/

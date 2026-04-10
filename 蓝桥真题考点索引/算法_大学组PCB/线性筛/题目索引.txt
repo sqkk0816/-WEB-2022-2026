@@ -1,4 +1,0 @@
-考点：线性筛
-题目数：1
-
-[17128] X质数 | 年份: 2023 | https://www.lanqiao.cn/problems/17128/

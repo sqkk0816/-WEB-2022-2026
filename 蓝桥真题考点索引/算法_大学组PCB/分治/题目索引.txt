@@ -1,4 +1,0 @@
-考点：分治
-题目数：1
-
-[3527] 阶乘的和 | 年份: 2023 | https://www.lanqiao.cn/problems/3527/

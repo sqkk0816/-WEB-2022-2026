@@ -1,8 +1,0 @@
-考点：背包问题
-题目数：5
-
-[2186] 2022 | 年份: 2022 | https://www.lanqiao.cn/problems/2186/
-[2223] 背包与魔法 | 年份: 2022 | https://www.lanqiao.cn/problems/2223/
-[2239] 火柴棒数字 | 年份: 2022 | https://www.lanqiao.cn/problems/2239/
-[2300] 质数拆分 | 年份: 2022 | https://www.lanqiao.cn/problems/2300/
-[17143] 划分 | 年份: 2023 | https://www.lanqiao.cn/problems/17143/

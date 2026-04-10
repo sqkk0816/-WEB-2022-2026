@@ -1,5 +1,0 @@
-考点：状压DP
-题目数：2
-
-[17125] 连续数组 | 年份: 2023 | https://www.lanqiao.cn/problems/17125/
-[17136] 星球 | 年份: 2023 | https://www.lanqiao.cn/problems/17136/

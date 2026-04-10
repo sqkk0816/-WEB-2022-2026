@@ -1,7 +1,0 @@
-考点：递推
-题目数：4
-
-[2137] 全排列的价值 | 年份: 2022 | https://www.lanqiao.cn/problems/2137/
-[21249] 情绪链路 | 年份: 2025 | https://www.lanqiao.cn/problems/21249/
-[21256] 近似回文字符串 | 年份: 2025 | https://www.lanqiao.cn/problems/21256/
-[21260] 斐波那契字符串 | 年份: 2025 | https://www.lanqiao.cn/problems/21260/

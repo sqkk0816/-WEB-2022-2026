@@ -1,7 +1,0 @@
-考点：进制转换
-题目数：4
-
-[2095] 九进制转十进制 | 年份: 2022 | https://www.lanqiao.cn/problems/2095/
-[2108] X 进制减法 | 年份: 2022 | https://www.lanqiao.cn/problems/2108/
-[2296] 6 个 0 | 年份: 2022 | https://www.lanqiao.cn/problems/2296/
-[19701] 穿越时空之门 | 年份: 2024 | https://www.lanqiao.cn/problems/19701/

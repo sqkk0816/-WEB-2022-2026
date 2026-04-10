@@ -1,7 +1,0 @@
-考点：ES6
-题目数：4
-
-[2281] 逃离二向箔 | 年份: 2022 | https://www.lanqiao.cn/problems/2281/
-[2322] 芝麻开门 | 年份: 2022 | https://www.lanqiao.cn/problems/2322/
-[2451] 灯的颜色变化 | 年份: 2022 | https://www.lanqiao.cn/problems/2451/
-[18468] 萌宠小玩家 | 年份: 2023 | https://www.lanqiao.cn/problems/18468/

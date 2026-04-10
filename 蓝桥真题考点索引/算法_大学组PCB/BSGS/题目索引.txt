@@ -1,4 +1,0 @@
-考点：BSGS
-题目数：1
-
-[17127] 游戏的得分 | 年份: 2023 | https://www.lanqiao.cn/problems/17127/
