@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>购物车</title>
+	<script src="./js/vue.js"></script>
+	<script src="./js/axios.js"></script>
+	<link rel="stylesheet" href="./css/element-ui.css">
+	<link rel="stylesheet" href="./css/index.css">
+</head>
+
+<body>
+	<div class="container" id="app">
+		<h4>购物车</h4>
+		<!-- 购物车列表 -->
+		<div>
+			<el-card class="box-card">
+				<!-- 商品图片 -->
+				<img>
+				<div>
+
+					<span>
+						<!-- 商品名称 -->
+					</span>
+					<div class="bottom clearfix">
+						<el-button type="text" class="button">+</el-button>
+						<el-button type="text" class="button">
+							<!-- 商品数量 -->
+						</el-button>
+						<el-button type="text" class="button">-</el-button>
+					</div>
+				</div>
+			</el-card>
+		</div>
+	</div>
+	</div>
+
+	<!-- 引入组件库 -->
+	<script src="./js/element-ui.js"></script>
+	<script>
+		new Vue({
+			el: "#app",
+			data: {
+				carlist: [] //购物车列表
+			},
+			created() {
+				// 在这里使用axios 发送请求
+			},
+		})
+
+
+	</script>
+</body>
+
+
+
+
+</html>

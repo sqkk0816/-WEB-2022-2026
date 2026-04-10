@@ -1,0 +1,15 @@
+h4 {
+	text-align: center;
+}
+
+.box-card {
+	width: 260px;
+	margin: 0 auto;
+	margin-top: 6px;
+}
+
+
+.box-card img {
+	height: 180px;
+	width: 220px;
+}

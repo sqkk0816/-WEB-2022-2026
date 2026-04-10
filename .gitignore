@@ -1,0 +1,6 @@
+# 本地拉取的题目详情（含题干，勿上传）
+题目详情缓存/
+# 若把 Cookie 放在文件里调试
+cookie.local.txt
+.env
+.env.local
